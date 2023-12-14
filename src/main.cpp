@@ -1,6 +1,6 @@
 #include <iostream>
 #include "graph.h"
-#include "dfs.h"
+#include "dfs/dfs.h"
 
 using namespace std;
 
